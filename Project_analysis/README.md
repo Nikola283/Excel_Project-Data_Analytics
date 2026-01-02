@@ -1,3 +1,5 @@
+# Project Analysis
+
 ## Introduction
 
 This project analyzes the data science job market using real-world job posting data from 2023 to identify high-value skills, salary benchmarks, and regional pay differences.
@@ -146,6 +148,5 @@ It includes detailed information on:
 
 ## Conclusion
 
-This Excel-based analysis demonstrates how job market and skill data can be transformed into actionable insights for salary benchmarking and workforce planning.
-
-By combining Power Query, Power Pivot, DAX, and advanced visualizations, the project highlights which roles and skills deliver the highest market value, supporting more informed hiring, compensation, and upskilling decisions.
+- This Excel-based analysis demonstrates how job market and skill data can be transformed into actionable insights for salary benchmarking and workforce planning.
+- By combining Power Query, Power Pivot, DAX, and advanced visualizations, the project highlights which roles and skills deliver the highest market value, supporting more informed hiring, compensation, and upskilling decisions.
