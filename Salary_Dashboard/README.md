@@ -2,16 +2,14 @@
 
 ![1_Salary_Dashboard.png](/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
-## Introduction
+This project presents an interactive Excel dashboard designed to analyze and benchmark salaries for data-related roles using real-world job posting data from 2023. The dashboard enables fast, data-driven insights into compensation trends across job titles, countries, and employment types.
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
-
-The data is from jobs postings survey from 2023, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+It is built for decision-makers, not just analysts — such as HR teams, recruiters, and consultants who need reliable salary benchmarks.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
-### Excel Skills Used
+### Tools & Techniques
 
 The following Excel skills were utilized for analysis:
 
@@ -28,7 +26,20 @@ The dataset used for this project contains real-world data science job informati
 - **📍 Locations**
 - **🛠️ Skills**
 
-## Dashboard Build
+## Solution
+
+I developed an Excel-based salary dashboard that:
+
+Automatically calculates median salaries based on multiple criteria
+
+Allows users to filter results by job title, country, and job schedule type
+
+Visualizes salary trends clearly using charts and maps
+
+The result is a clean, interactive dashboard that supports faster and more informed compensation decisions.
+
+## Technical Implementation (Optional)
+The following section highlights selected technical details for those interested in the implementation.
 
 ### 📉 Charts
 
@@ -97,6 +108,18 @@ IF(
 
 <img src="/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
+## Key Insights
+
+Senior and Engineering roles consistently show higher median salaries, often significantly outperforming Analyst roles across most regions.
+
+Salary differences between countries are substantial, indicating opportunities for:
+
+Remote hiring
+
+Location-based compensation strategies
+
+Full-time roles tend to offer more stable and predictable salary ranges, which is valuable for long-term workforce planning.
+
 ### ❎ Data Validation
 
 #### 🔍 Filtered List
@@ -109,5 +132,4 @@ IF(
 <img src="/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
-
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel project, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This Excel dashboard demonstrates how salary data can be transformed into actionable insights for compensation benchmarking and workforce planning. By combining interactive filters, automated calculations, and clear visualizations, the dashboard supports faster and more confident decision-making for HR, recruitment, and consulting teams. This dashboard reduces manual salary analysis and provides instant access to structured insights, saving time and improving decision quality.
