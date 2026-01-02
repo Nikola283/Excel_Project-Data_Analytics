@@ -30,13 +30,13 @@ The dataset used for this project contains real-world data science job informati
 
 I developed an Excel-based salary dashboard that:
 
-Automatically calculates median salaries based on multiple criteria
+- Automatically calculates median salaries based on multiple criteria
 
-Allows users to filter results by job title, country, and job schedule type
+- Allows users to filter results by job title, country, and job schedule type
 
-Visualizes salary trends clearly using charts and maps
+- Visualizes salary trends clearly using charts and maps
 
-The result is a clean, interactive dashboard that supports faster and more informed compensation decisions.
+- The result is a clean, interactive dashboard that supports faster and more informed compensation decisions.
 
 ## Technical Implementation (Optional)
 The following section highlights selected technical details for those interested in the implementation.
@@ -110,15 +110,15 @@ IF(
 
 ## Key Insights
 
-Senior and Engineering roles consistently show higher median salaries, often significantly outperforming Analyst roles across most regions.
+- Senior and Engineering roles consistently show higher median salaries, often significantly outperforming Analyst roles across most regions.
 
-Salary differences between countries are substantial, indicating opportunities for:
+- Salary differences between countries are substantial, indicating opportunities for:
 
-Remote hiring
+- Remote hiring
 
-Location-based compensation strategies
+- Location-based compensation strategies
 
-Full-time roles tend to offer more stable and predictable salary ranges, which is valuable for long-term workforce planning.
+- Full-time roles tend to offer more stable and predictable salary ranges, which is valuable for long-term workforce planning.
 
 ### ❎ Data Validation
 
@@ -132,4 +132,6 @@ Full-time roles tend to offer more stable and predictable salary ranges, which i
 <img src="/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
-This Excel dashboard demonstrates how salary data can be transformed into actionable insights for compensation benchmarking and workforce planning. By combining interactive filters, automated calculations, and clear visualizations, the dashboard supports faster and more confident decision-making for HR, recruitment, and consulting teams. This dashboard reduces manual salary analysis and provides instant access to structured insights, saving time and improving decision quality.
+- This Excel dashboard demonstrates how salary data can be transformed into actionable insights for compensation benchmarking and workforce planning.
+- By combining interactive filters, automated calculations, and clear visualizations, the dashboard supports faster and more confident decision-making for HR, recruitment, and consulting teams.
+- This dashboard reduces manual salary analysis and provides instant access to structured insights, saving time and improving decision quality.
